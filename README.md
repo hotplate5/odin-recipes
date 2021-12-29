@@ -1,0 +1,2 @@
+This repository will house the code for a basic recipe website.
+This project will demonstrate basic html boilerplate, multiple web pages connected in a single website, and other basic html text formatting elements
